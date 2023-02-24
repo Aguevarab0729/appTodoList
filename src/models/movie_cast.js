@@ -1,0 +1,1 @@
+const movieCastSchema = new MovieCastSchema;
